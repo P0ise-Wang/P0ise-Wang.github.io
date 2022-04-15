@@ -1,0 +1,22 @@
+._arr{
+    background-color:#dcdde1;
+}
+._background{
+    height: 350px;
+    box-sizing:border-box;
+    background-color:#fff;
+}
+._index{
+    background-color:#8fd5fd;
+    /* transition: 00.5s; */
+}
+._indexp{
+    background-color:#fcd0cb;
+    /* transition: 00.5s; */
+
+}
+._complete{
+    background-image: linear-gradient(to top, #fff1eb 0%, #ace0f9 100%);
+    /* transition: 00.5s; */
+
+}
